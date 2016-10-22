@@ -164,7 +164,7 @@
     "url": "https://github.com/akveo/ng2-admin/issues"
   },
   "engines": {
-    "node": ">= 4.2.1",
-    "npm": ">= 3"
+    "node": "4.2.1",
+    "npm": "3"
   }
 }
